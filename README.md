@@ -15,4 +15,5 @@ Bu Discord botu, sunucunuzda çeşitli yönetimsel işlemleri yönetmek için ta
 ## Kurulum
 
 **Node.js ve npm Kurulumu**: Botu çalıştırmak için [Node.js](https://nodejs.org/) ve npm'nin yüklü olması gerekir.
+**.env Dosyasını Unutmayınız.**
 
